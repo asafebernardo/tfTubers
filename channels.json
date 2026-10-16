@@ -1,0 +1,400 @@
+{
+  "channels": [
+    {
+      "url": "https://www.youtube.com/@teamfortress",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "official",
+      "firstTf2VideoAt": "2007-05-14",
+      "firstTf2VideoTitle": "Meet the Heavy",
+      "description": "Official Team Fortress 2 channel. Meet the Team shorts, Expiration Date, and update trailers."
+    },
+    {
+      "url": "https://www.youtube.com/@Muselk",
+      "country": "Australia",
+      "countryCode": "AU",
+      "status": "legacy",
+      "firstTf2VideoAt": "2013-02-08",
+      "firstTf2VideoTitle": "Early TF2 funny moments and challenge videos",
+      "description": "Australian variety creator who broke out with TF2 challenges, Medic vs Engineer, and pub stomps."
+    },
+    {
+      "url": "https://www.youtube.com/@Kryoz",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "status": "legacy",
+      "firstTf2VideoAt": "2014-03-12",
+      "firstTf2VideoTitle": "Early TF2 montage and funny moments",
+      "description": "Dutch comedian who started with TF2 before expanding into broader variety content."
+    },
+    {
+      "url": "https://www.youtube.com/@Jerma985",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "legacy",
+      "firstTf2VideoAt": "2011-05-20",
+      "firstTf2VideoTitle": "Classic TF2 streams and funny moments",
+      "description": "One of the Mount Rushmore TF2bers. Chaotic pubs, Spy mains, and unforgettable old-school commentary."
+    },
+    {
+      "url": "https://www.youtube.com/@STAR_",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "legacy",
+      "firstTf2VideoAt": "2009-06-18",
+      "firstTf2VideoTitle": "Early TF2 gameplay and community videos",
+      "description": "Legendary early TF2 creator. Many players learned the game from STAR_ clips and commentary."
+    },
+    {
+      "url": "https://www.youtube.com/@the_winglet",
+      "country": "Australia",
+      "countryCode": "AU",
+      "status": "active",
+      "firstTf2VideoAt": "2013-11-16",
+      "firstTf2VideoTitle": "The Fedora Chronicles: Operation 2Fort",
+      "description": "Australian SFM director. Saxxy-winning shorts, Meet the Items, and Overwatch vs. TF2."
+    },
+    {
+      "url": "https://www.youtube.com/@LazyPurple",
+      "country": "Canada",
+      "countryCode": "CA",
+      "status": "active",
+      "firstTf2VideoAt": "2010-07-20",
+      "firstTf2VideoTitle": "Early TF2 comedy and class videos",
+      "description": "Canadian comedy essays and the How it FEELS series. Mixes SFM, editing, and class psychology."
+    },
+    {
+      "url": "https://www.youtube.com/@UncleDane",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2013-08-12",
+      "firstTf2VideoTitle": "Engineer-focused TF2 guides and pubs",
+      "description": "The internet's favorite Engineer uncle. Calm, funny, and still posting TF2."
+    },
+    {
+      "url": "https://www.youtube.com/@SoundSmithTF2",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2016-04-18",
+      "firstTf2VideoTitle": "Trolldier and SFM comedy shorts",
+      "description": "Market Garden menace. SFM gags, trolldier teaching, and high-energy TF2 comedy."
+    },
+    {
+      "url": "https://www.youtube.com/@NISLT",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "status": "active",
+      "firstTf2VideoAt": "2009-11-08",
+      "firstTf2VideoTitle": "TF2 clip compilations",
+      "description": "Lithuanian clip channel. Years of submitted TF2 plays, stabs, and pub highlights."
+    },
+    {
+      "url": "https://www.youtube.com/@HoovyTube",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2015-05-10",
+      "firstTf2VideoTitle": "Heavy-focused SFM and animation",
+      "description": "Animator first. Sandvich energy, SFM shorts, and Heavy-centric TF2 cartoons."
+    },
+    {
+      "url": "https://www.youtube.com/@kitty0706",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "status": "legacy",
+      "firstTf2VideoAt": "2008-09-14",
+      "firstTf2VideoTitle": "Early Source Filmmaker TF2 shorts",
+      "description": "UK SFM pioneer. Foundational TF2 animations that defined a generation of Source Filmmaker."
+    },
+    {
+      "url": "https://www.youtube.com/@ceno0",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "status": "active",
+      "firstTf2VideoAt": "2012-03-01",
+      "firstTf2VideoTitle": "TF2 montage and gameplay",
+      "description": "Ukrainian creator known in the TF2 montage and frag scene."
+    },
+    {
+      "url": "https://www.youtube.com/@MRswipez1",
+      "country": "Russia",
+      "countryCode": "RU",
+      "status": "active",
+      "firstTf2VideoAt": "2010-05-20",
+      "firstTf2VideoTitle": "TF2 montages and edits",
+      "description": "Russian montage editor. Stylish TF2 frags and class-focused edits."
+    },
+    {
+      "url": "https://www.youtube.com/@Vorobey",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2018-06-01",
+      "firstTf2VideoTitle": "Live commentary TF2 pubs",
+      "description": "High-energy live commentary. Pubs, reactions, and long-form TF2 sessions."
+    },
+    {
+      "url": "https://www.youtube.com/@FortressFilms",
+      "country": "Australia",
+      "countryCode": "AU",
+      "status": "active",
+      "firstTf2VideoAt": "2014-08-01",
+      "firstTf2VideoTitle": "TF2 cinematic shorts",
+      "description": "Australian cinematic TF2 films and SFM storytelling."
+    },
+    {
+      "url": "https://www.youtube.com/@ArraySeven",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "legacy",
+      "firstTf2VideoAt": "2012-04-10",
+      "firstTf2VideoTitle": "TF2 comedy sketches and pubs",
+      "description": "Classic American TF2 comedy and community sketches."
+    },
+    {
+      "url": "https://www.youtube.com/@GreatBlue",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2019-02-14",
+      "firstTf2VideoTitle": "What if TF2 experiments and maps",
+      "description": "Map maker and experimenter. Troll maps, design breakdowns, and MGEdit energy."
+    },
+    {
+      "url": "https://www.youtube.com/@shounic",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2018-01-15",
+      "firstTf2VideoTitle": "Source engine and TF2 technical videos",
+      "description": "Engine nerd content. Why TF2 works the way it does, bugs, and beautiful technical rabbit holes."
+    },
+    {
+      "url": "https://www.youtube.com/@OfficialTF2Wiki",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2010-06-01",
+      "firstTf2VideoTitle": "Wiki-linked TF2 explainers",
+      "description": "YouTube arm of the Official Team Fortress Wiki."
+    },
+    {
+      "url": "https://www.youtube.com/@SolarLight",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "status": "active",
+      "firstTf2VideoAt": "2017-09-01",
+      "firstTf2VideoTitle": "Competitive TF2 explainers",
+      "description": "UK competitive voice. Long-form breakdowns of meta, Highlander, and what it feels like to grind."
+    },
+    {
+      "url": "https://www.youtube.com/@SkyminSlash",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2016-02-01",
+      "firstTf2VideoTitle": "TF2 animation and community videos",
+      "description": "US creator mixing animation, edits, and TF2 community content."
+    },
+    {
+      "url": "https://www.youtube.com/@Octo",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2018-05-01",
+      "firstTf2VideoTitle": "TF2 shorts and sketches",
+      "description": "American TF2 sketches and edited shorts."
+    },
+    {
+      "url": "https://www.youtube.com/@Krunkidile",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2012-08-01",
+      "firstTf2VideoTitle": "Team Service Announcements and SFM comedy",
+      "description": "Animator of I'M AT SOUP and Team Service Announcements. Retail trauma, but make it mercs."
+    },
+    {
+      "url": "https://www.youtube.com/@fatmagic",
+      "country": "Canada",
+      "countryCode": "CA",
+      "status": "active",
+      "firstTf2VideoAt": "2014-01-12",
+      "firstTf2VideoTitle": "Sniper pubs and chill commentary",
+      "description": "Canadian Sniper main. Chill live commentary and goofy aim demon energy."
+    },
+    {
+      "url": "https://www.youtube.com/@FishStickOnAStick",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2017-08-01",
+      "firstTf2VideoTitle": "Daily TF2 gameplay",
+      "description": "US gameplay channel focused on TF2 matches, loadouts, and pubs."
+    },
+    {
+      "url": "https://www.youtube.com/@Seriamon",
+      "country": "Austria",
+      "countryCode": "AT",
+      "status": "active",
+      "firstTf2VideoAt": "2016-04-01",
+      "firstTf2VideoTitle": "TF2 gameplay series",
+      "description": "Austrian TF2 creator with a huge back catalog of matches."
+    },
+    {
+      "url": "https://www.youtube.com/@McVee",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "status": "active",
+      "firstTf2VideoAt": "2015-06-01",
+      "firstTf2VideoTitle": "TF2 funny moments",
+      "description": "UK TF2 personality with punchy funny-moments editing."
+    },
+    {
+      "url": "https://www.youtube.com/@BigJoey",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "legacy",
+      "firstTf2VideoAt": "2016-09-01",
+      "firstTf2VideoTitle": "Heavy mains and funny pubs",
+      "description": "American Heavy main. Pootis, pubs, and classic class comedy."
+    },
+    {
+      "url": "https://www.youtube.com/@SquimJim",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2018-11-01",
+      "firstTf2VideoTitle": "TF2 lore and gameplay essays",
+      "description": "Lore dives mixed with in-game TF2. After Breakfast energy."
+    },
+    {
+      "url": "https://www.youtube.com/@WeezyTF2",
+      "country": "Canada",
+      "countryCode": "CA",
+      "status": "active",
+      "firstTf2VideoAt": "2019-03-01",
+      "firstTf2VideoTitle": "TF2 animation shorts",
+      "description": "Canadian animator. Short-form TF2 cartoons and chaotic mercenary humor."
+    },
+    {
+      "url": "https://www.youtube.com/@Toofty",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "status": "active",
+      "firstTf2VideoAt": "2016-07-01",
+      "firstTf2VideoTitle": "TF2 gameplay and community clips",
+      "description": "UK TF2 gameplay channel with a long clip archive."
+    },
+    {
+      "url": "https://www.youtube.com/@Samwiz1",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2015-02-01",
+      "firstTf2VideoTitle": "TF2 videos and community content",
+      "description": "American TF2 creator covering pubs, weapons, and community topics."
+    },
+    {
+      "url": "https://www.youtube.com/@BrickiestBrick",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2017-04-01",
+      "firstTf2VideoTitle": "TF2 maps and gameplay",
+      "description": "US creator known for TF2 maps, modes, and gameplay experiments."
+    },
+    {
+      "url": "https://www.youtube.com/@Peterscraps",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "status": "active",
+      "firstTf2VideoAt": "2014-10-01",
+      "firstTf2VideoTitle": "TF2 animation and sketches",
+      "description": "UK mix of animation, sketches, and TF2 community videos."
+    },
+    {
+      "url": "https://www.youtube.com/@b4nny",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2011-08-01",
+      "firstTf2VideoTitle": "Competitive TF2 demos and pugs",
+      "description": "US competitive legend. Demos, pugs, and the serious side of sixes."
+    },
+    {
+      "url": "https://www.youtube.com/@MonkeyTF2",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "status": "active",
+      "firstTf2VideoAt": "2016-01-01",
+      "firstTf2VideoTitle": "TF2 funny moments montages",
+      "description": "Swedish funny-moments editor."
+    },
+    {
+      "url": "https://www.youtube.com/@stabbystabby",
+      "country": "Canada",
+      "countryCode": "CA",
+      "status": "legacy",
+      "firstTf2VideoAt": "2009-05-18",
+      "firstTf2VideoTitle": "Spy trickstab tutorials",
+      "description": "Canadian Spy main. Helped popularize trickstabbing for a whole generation."
+    },
+    {
+      "url": "https://www.youtube.com/@Zeyo",
+      "country": "Norway",
+      "countryCode": "NO",
+      "status": "active",
+      "firstTf2VideoAt": "2018-02-01",
+      "firstTf2VideoTitle": "TF2 gameplay videos",
+      "description": "Norwegian TF2 creator with a loyal gameplay audience."
+    },
+    {
+      "url": "https://www.youtube.com/@Jontohil2",
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "status": "active",
+      "firstTf2VideoAt": "2019-06-01",
+      "firstTf2VideoTitle": "Spy class guides",
+      "description": "New Zealand Spy teacher. High-quality class guides and trickstab cinema."
+    },
+    {
+      "url": "https://www.youtube.com/@Wrath",
+      "country": "United States",
+      "countryCode": "US",
+      "status": "active",
+      "firstTf2VideoAt": "2009-12-01",
+      "firstTf2VideoTitle": "Early TF2 gameplay",
+      "description": "Long-running US TF2 channel from the late 2000s scene."
+    },
+    {
+      "url": "https://www.youtube.com/@migiTF2",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "status": "active",
+      "firstTf2VideoAt": "2018-09-01",
+      "firstTf2VideoTitle": "TF2 gameplay",
+      "description": "Brazilian TF2 gameplay creator. Add more BR channels from the Import page."
+    },
+    {
+      "url": "https://www.youtube.com/@Chimparoncito",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "status": "active",
+      "firstTf2VideoAt": "2019-01-01",
+      "firstTf2VideoTitle": "TF2 Spanish-language gameplay",
+      "description": "Latin American TF2 gameplay and community videos."
+    },
+    {
+      "url": "https://www.youtube.com/@tif.x",
+      "country": "Germany",
+      "countryCode": "DE",
+      "status": "active",
+      "firstTf2VideoAt": "2019-12-01",
+      "firstTf2VideoTitle": "Daily Dustbowl gameplay",
+      "description": "Dustbowl lifer. Daily TF2 uploads from a 10,000-hour veteran."
+    }
+  ]
+}

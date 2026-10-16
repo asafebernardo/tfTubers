@@ -1,0 +1,22 @@
+{
+  "name": "tftubers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Catalog of Team Fortress 2 YouTubers by country, subscribers, oldest videos, and topic.",
+  "scripts": {
+    "dev": "concurrently -n server,client -c red,cyan \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node --watch server/index.js",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node server/index.js",
+    "postinstall": "npm install --prefix client"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
